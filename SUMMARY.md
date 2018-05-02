@@ -11,5 +11,4 @@
 * [3.テスト３](contents/body-3.md)
 
 ## 結文
-* [おわりに](contents/postscript.md)
-
+* [おわり](contents/postscript.md)
